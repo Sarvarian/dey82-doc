@@ -1,16 +1,4 @@
 
-Fun:
-	Voluntary attention.
-
-Story:
-	Fun of play.
-
-Play:
-	Act of fooling around. 
-
-Game:
-	A setup for play.
-
 Design: 
 
 Implementation: 
