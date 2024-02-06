@@ -3,7 +3,7 @@
 
 Act of fooling around.
 
-A story built up by players in a context of a game.
+Play is: A story built up by players in context of a game.
 
 I think:
 Games are about learning and playing is
